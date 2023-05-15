@@ -1,4 +1,5 @@
 # terribly tiny tales assignment
+## Assignment by Sushant Kumar
 On first rendering, submit button is there on the main screen.After clicking on the submit button, the user will be directed to the working page.
 ## Explanation of the Working code
 After clicking on the submit button, a function will be called where the function contains fetching of data done using axios. Then the data is split into words and we have calculated the frequency of each words appearing in the data set.
